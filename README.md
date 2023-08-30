@@ -6,14 +6,14 @@
   <img src="Docs/PCI.png" align=center">
  </p>
  <p align="center">
-  <img src="Docs/USB.png" align=center">
+  <img src="Docs/USB.jpg" align=center">
  </p>
  <p align="center">
-  <img src="Docs/Peripherals.png" align=center">
+  <img src="Docs/Peripherals.jgp" align=center">
  </p>
   </p>
  <p align="center">
-  <img src="Docs/TrippleBoot.jpg" align=center">
+  <img src="Docs/AboutThisMac.jpg" align=center">
  </p>
 
 ## Specs
