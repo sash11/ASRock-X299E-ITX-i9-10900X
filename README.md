@@ -12,7 +12,6 @@
   <img src="Docs/Peripherals.jpg" align=center">
  </p>
 
-
 ## Specs
 | **Component** | **Model** |
 | ------------- | --------- |
@@ -26,9 +25,9 @@
 
 ## BIOS
 - Press F2 or Del to enter the BIOS. Use latest available bios for the system 2.20B
+- Multi Core Envancement Disabled
+- C.A.M. Disabled
 - SATA Mode AHCI
-- All settings can be turned on, including VT-D.
+- XHCI Hand-Off Enabled
 
-
-## What is working/not working
 
