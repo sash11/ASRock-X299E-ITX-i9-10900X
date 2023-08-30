@@ -9,7 +9,7 @@
   <img src="Docs/USB.jpg" align=center">
  </p>
  <p align="center">
-  <img src="Docs/Peripherals.jgp" align=center">
+  <img src="Docs/Peripherals.jpg" align=center">
  </p>
 
 
