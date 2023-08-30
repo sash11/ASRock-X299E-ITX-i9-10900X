@@ -11,7 +11,7 @@
  <p align="center">
   <img src="Docs/Peripherals.jgp" align=center">
  </p>
-  </p>
+
 
 ## Specs
 | **Component** | **Model** |
