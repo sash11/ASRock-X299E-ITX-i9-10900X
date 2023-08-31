@@ -33,3 +33,4 @@
 ## Installation instructions
 - Copy both EFI and NVRAM folders onto the bootable USB stick and later onto the HDD once system is up and running.
 - Adjust your config according to your GPU. I am using a "natively" supported GPU with no WEG kext.
+- Generate your own SMBIOS obviously. The one in the config now is just a sample for installation purposes only. Do not use it in your system.
