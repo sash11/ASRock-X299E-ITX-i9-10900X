@@ -30,4 +30,6 @@
 - SATA Mode AHCI
 - XHCI Hand-Off Enabled
 
-
+## Installation instructions
+- Copy both EFI and NVRAM folders onto the bootable USB stick and later onto the HDD once system is up and running.
+- Adjust your config according to your GPU. I am using a "natively" supported GPU with no WEG kext.
