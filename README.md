@@ -29,6 +29,7 @@
 - C.A.M. Disabled
 - SATA Mode AHCI
 - XHCI Hand-Off Enabled
+- For more detailed settings download folder BIOS-Screenshots
 
 ## Installation instructions
 - Copy both EFI and NVRAM folders onto the bootable USB stick and later onto the HDD once system is up and running.
