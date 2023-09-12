@@ -1,6 +1,6 @@
 # ASRock X299E-ITX/AC with Opencore 0.9.5
 <p align="center">
-  <img src="Docs/AboutThisMac.jpg" align=center">
+  <img src="Docs/AboutThisMac.png" align=center">
  </p>
  <p align="center">
   <img src="Docs/PCI.jpg" align=center">
