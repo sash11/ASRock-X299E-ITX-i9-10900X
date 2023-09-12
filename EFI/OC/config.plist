@@ -650,7 +650,7 @@
 			<key>RebuildAppleMemoryMap</key>
 			<true/>
 			<key>ResizeAppleGpuBars</key>
-			<integer>-1</integer>
+			<integer>0</integer>
 			<key>SetupVirtualMap</key>
 			<false/>
 			<key>SignalAppleOS</key>
@@ -752,6 +752,84 @@
 			</dict>
 			<key>PciRoot(0x2)/Pci(0x0,0x0)/Pci(0x0,0x0)/Pci(0x0,0x0)/Pci(0x0,0x0)</key>
 			<dict>
+				<key>#PP_PhmSoftPowerPlayTable</key>
+				<data>
+				pgkPAAIiA68JAAB3QAAAgAAYAAAAHAAAAAAAAHYAAAAA
+				AAAAAAAAAAAAAQAAAAEAAAANAAAAZAoAALAEAADoAwAA
+				lAcAAPIEAADFBQAA8gQAAMUFAACwBAAAwQQAAMEEAAAq
+				AwAAwQQAAAAAAAAAAAAAAAAAAPQBAADgAQAAYQAAACYC
+				AAA9AQAAawEAAD0BAABrAQAAogEAAOcBAADnAQAALAEA
+				AOcBAAAAAAAAAAAAAAAAAACBAAAAEAAAAB4AAAABAQEB
+				AQEBAQEBAQEBAQABAAAAAAAAAAAAAAAAAAAAALgLAAC4
+				CwAAAAAAAAAAAAAAAAAAuAsAADMEAAAzBAAADwAAAEgN
+				AABIDQAAZAAAAG4AAAABAAAAAQAAAAEAAAABAAAAAQAA
+				AGQAAABkAAAAZAAAAGQAAABkAAAAZAAAAGQAAABkAAAA
+				ZAAAAGQAAAAAAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAA
+				AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+				AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+				AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+				AAAAAAAAAAAAAAAAAAAAAAAAAAD0AQAA9AEAAAAAAAAA
+				AAAAAAAAAPQBAACiAgAAogIAAAoAAAD6AAAA6AMAABkA
+				AAAyAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAZAAAACgAA
+				ABkAAAAKAAAAGQAAAAoAAAAZAAAACgAAABkAAAAKAAAA
+				AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+				AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+				AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+				AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+				AAAAAAAAAAAAAAAABgAAAAYABgBbAFkAXwBZAKoF1gbW
+				Bp4Hvgq+CsoISA0AAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+				AAAAAAAAAAAAAAYAAAD//X+jYzcAAAgBAAAAAAAAAAAA
+				AAAAAAAIAQAAAAAAAAAAAAAAAAAAQAE3AAAAAABkAG4A
+				ZABzAHMAcwBzAAAAAAAAAAAAAAABAAAACgAAAAAAAAAA
+				AAAAAAAAAAAAAAAAAAAAAAAAAP44AABzDwAAZABkABwM
+				gAwAAAAAAAAAAOQM5AxcEvgRQAAAATIAPACADIAMgAyA
+				DBQAFAAAAAIAAACAPwAAAAC1N7g+7xtnv09Apz+LBAAA
+				AAACAO58jz+mm4Q+RDSaPkOtCb49DzY/8QAAAAABBADN
+				zKw/46WbvW+B5D7Kpsy+BCFJP8ABAAAAAAIAAACAPwAA
+				AAByxHo+TImEvty6Qz8RAgAAAAACAAmKrz8pXA+9hc7r
+				PhDMwb5HIEY/mwEAAAAAAgBq3ok/uB4FPo51kT4oSVe+
+				5Cw8P3MBAAAAAAIACYqvPylcD72Fzus+EMzBvkcgRj+b
+				AQAAAAACAGreiT+4HgU+jnWRPihJV77kLDw/cwEAAAAA
+				AgB9P5U/3SQGPh13qj7ud2i+yR88P1UBAAAAAAIAarx0
+				P65HYT5zLmU+Uu0TvtcvOD9DAQAAAAACAGq8dD+uR2E+
+				cy5lPlLtE77XLzg/QwEAAAAAAgAOLRI/mpnZPieDoz2N
+				KO285+MyP7YAAAAAAAIAarx0P65HYT5zLmU+Uu0Tvtcv
+				OD9DAQAA9AFkCgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+				AAAAAABrAcUFAAAAAAAAAAAAAAAAPQHyBAAAAAAAAAAA
+				AAAAAOABsAQAAAAAAAAAAAAAAABhAMkBogLoA6IBsAQA
+				AAAAAAAAAAAAAADnAcEEAAAAAAAAAAAAAAAA5wHBBAAA
+				AAAAAAAAAAAAACwBKgMAAAAAAAAAAAAAAADnAcEEAAAA
+				AAAAAAAAAAAAJgKUBwAAAAAAAAAAAAAAAAAAAAAAAAAA
+				AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+				AAAAAAAAAAAAAAAAAAAAAAAAAAAAAABkCgAAsAQAAOgD
+				AACUBwAA8gQAAMUFAADyBAAAxQUAALAEAADBBAAAwQQA
+				ACoDAADBBAAAAAIDA3gFAABMAfoB8AqADIwKgAxIDUgN
+				iBMYFRgVGBX0ASAD9AEBAAECXQABAAAAAAAAAAAAAAAA
+				AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+				AAAAAAAAAAAAAAAAAAAqFtcVhBUwFd0UihQ2FOMTkBM9
+				E+kSlhKxEcwQ5w8CDwAAAAADAgEAAAAAAAAAAAAAAAAA
+				AAMBBjYBawIyADwAkAGQAZABkAGQAZABkAGQAZABkAEP
+				ANYGvgpIDQAAWQD0AQAAAQABAgAAAAAAAAAAAAABAAAA
+				AAAAAAAAAAAAAAAAAAAAAAAAAAAAAA1Uhj28BdK9H4AU
+				PgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+				AAAAAAAAAACamZk+AADAPzMzE0AAACBAZmZGQArXIz3d
+				JIY9okW2PTm0yD3HS7c+dZOYPS/dhL6jkno+5WEhvQRW
+				jj7Fciu+wADAAAEBAAAAAAAAwADAABkAGQAAAAAAAAAA
+				AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+				AAAAAAAAAAAAAAAAAAAAAAABOwtFAQAANIA3O5+rzT7t
+				DT48dZP4PgAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+				AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+				AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+				AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+				AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+				AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+				AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+				AAAAAAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+				AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+				AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+				AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+				AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAeBg==
+				</data>
 				<key>@0,name</key>
 				<string>ATY,Carswell</string>
 				<key>@1,name</key>
@@ -769,7 +847,7 @@
 				<key>device_type</key>
 				<string>VGA compatible controller</string>
 				<key>model</key>
-				<string>Radeon RX 6900 XT</string>
+				<string>AMD Radeon RX 6900 XT</string>
 			</dict>
 			<key>PciRoot(0x2)/Pci(0x0,0x0)/Pci(0x0,0x0)/Pci(0x0,0x0)/Pci(0x0,0x1)</key>
 			<dict>
@@ -1013,6 +1091,24 @@
 				<key>PlistPath</key>
 				<string>Contents/Info.plist</string>
 			</dict>
+			<dict>
+				<key>Arch</key>
+				<string>Any</string>
+				<key>BundlePath</key>
+				<string>RestrictEvents.kext</string>
+				<key>Comment</key>
+				<string></string>
+				<key>Enabled</key>
+				<false/>
+				<key>ExecutablePath</key>
+				<string>Contents/MacOS/RestrictEvents</string>
+				<key>MaxKernel</key>
+				<string></string>
+				<key>MinKernel</key>
+				<string></string>
+				<key>PlistPath</key>
+				<string>Contents/Info.plist</string>
+			</dict>
 		</array>
 		<key>Block</key>
 		<array/>
@@ -1131,7 +1227,7 @@
 			<key>TakeoffDelay</key>
 			<integer>0</integer>
 			<key>Timeout</key>
-			<integer>5</integer>
+			<integer>3</integer>
 		</dict>
 		<key>Debug</key>
 		<dict>
@@ -1340,6 +1436,7 @@
 				<string>nvda_drv</string>
 				<string>prev-lang:kbd</string>
 				<string>backlight-level</string>
+				<string>BootCampHD</string>
 			</array>
 			<key>8BE4DF61-93CA-11D2-AA0D-00E098032B8C</key>
 			<array>
@@ -1364,14 +1461,14 @@
 			<key>AdviseFeatures</key>
 			<false/>
 			<key>MLB</key>
-			<string>C02814303GUJG361H</string>
+			<string>C02117306CDJG36FB</string>
 			<key>MaxBIOSVersion</key>
 			<false/>
 			<key>ProcessorType</key>
 			<integer>0</integer>
 			<key>ROM</key>
 			<data>
-			sEgaYLxo
+			fMOhLhCh
 			</data>
 			<key>SpoofVendor</key>
 			<true/>
@@ -1380,9 +1477,9 @@
 			<key>SystemProductName</key>
 			<string>iMacPro1,1</string>
 			<key>SystemSerialNumber</key>
-			<string>C02WJFZDHX87</string>
+			<string>C02FMAYYHX87</string>
 			<key>SystemUUID</key>
-			<string>FD239129-E5FD-4F04-A041-6F76E9E16487</string>
+			<string>6F1685CE-7C8C-4673-B841-9AC897F3ACA8</string>
 		</dict>
 		<key>UpdateDataHub</key>
 		<true/>
@@ -1452,7 +1549,7 @@
 			<key>AudioSupport</key>
 			<true/>
 			<key>DisconnectHda</key>
-			<true/>
+			<false/>
 			<key>MaximumGain</key>
 			<integer>-15</integer>
 			<key>MinimumAssistGain</key>
@@ -1480,7 +1577,7 @@
 				<key>LoadEarly</key>
 				<false/>
 				<key>Path</key>
-				<string>HfsPlus.efi</string>
+				<string>OpenHfsPlus.efi</string>
 			</dict>
 			<dict>
 				<key>Arguments</key>
@@ -1667,8 +1764,10 @@
 			<key>RequestBootVarRouting</key>
 			<true/>
 			<key>ResizeGpuBars</key>
-			<integer>-1</integer>
+			<integer>0</integer>
 			<key>ResizeUsePciRbIo</key>
+			<false/>
+			<key>ShimRetainProtocol</key>
 			<false/>
 			<key>TscSyncTimeout</key>
 			<integer>0</integer>
