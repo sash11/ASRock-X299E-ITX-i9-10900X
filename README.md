@@ -11,6 +11,12 @@
  <p align="center">
   <img src="Docs/Peripherals.jpg" align=center">
  </p>
+ <p align="center">
+  <img src="Docs/Geekbench_CPU.png" align=center">
+ </p>
+  <p align="center">
+  <img src="Docs/Geekbench_Metal.png" align=center">
+ </p>
 
 ## Specs
 | **Component** | **Model** |
