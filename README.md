@@ -16,7 +16,7 @@
 | **Component** | **Model** |
 | ------------- | --------- |
 | CPU | i9-10900X 10 cores and 20 threads @3.7GHz |
-| RAM | 4x16GB 266MHz DDR4 SO-DIMM Crucial CT16G4SFRA266 |
+| RAM | 4x16GB 2666MHz DDR4 SO-DIMM Crucial CT16G4SFRA266 |
 | Audio Chipset | Realtek ALC S1220. Works with Layout-id 7 |
 | dGPU | Sapphire AMD Radeon RX6900XT. Works OOB |
 | WiFi & Bluetooth | Fenvi BCM94360NG. Works OOB |
