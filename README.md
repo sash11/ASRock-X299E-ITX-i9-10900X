@@ -26,7 +26,6 @@
 ## BIOS
 - Press F2 or Del to enter the BIOS. Use latest available bios for the system 2.20B
 - Multi Core Envancement Disabled
-- C.A.M. Disabled
 - SATA Mode AHCI
 - XHCI Hand-Off Enabled
 - For more detailed settings download folder BIOS-Screenshots
