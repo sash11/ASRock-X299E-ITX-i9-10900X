@@ -27,7 +27,7 @@
 | dGPU | Sapphire AMD Radeon RX6900XT. Works OOB |
 | WiFi & Bluetooth | Fenvi BCM94360NG. Works OOB |
 | OS Disk | 2TB WD SN850X |
-| macOS | Ventura 13.5.2/OpenCore 0.9.5
+| macOS | Ventura 13.6.6/OpenCore 0.9.9
 
 ## BIOS
 - Press F2 or Del to enter the BIOS. Use latest available bios for the system 2.20B
