@@ -9,7 +9,7 @@
   <img src="Docs/USB.jpg" align=center">
  </p>
  <p align="center">
-  <img src="Docs/Peripherals.jpg" align=center">
+  <img src="Docs/Peripherals.png" align=center">
  </p>
  <p align="center">
   <img src="Docs/Geekbench_CPU.png" align=center">
