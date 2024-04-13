@@ -48,8 +48,7 @@ I used one of the available PCIe Gen3 x4 port on the back of the motherboard and
   <img src="Docs/PCIe-adapter.png" align=center">
  </p>
 There two network cards that work OOB:
-Intel XXV710-DA1
-Mellanox MCX4111A-ACAT
+Intel XXV710-DA1 and Mellanox MCX4111A-ACAT
 
 I had Intel card at hand. It is working without issues on this platform.
   <p align="center">
