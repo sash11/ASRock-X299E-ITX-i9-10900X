@@ -3,7 +3,7 @@
   <img src="Docs/AboutThisMac.png" align=center">
  </p>
  <p align="center">
-  <img src="Docs/PCI.jpg" align=center">
+  <img src="Docs/PCI.png" align=center">
  </p>
  <p align="center">
   <img src="Docs/USB.jpg" align=center">
