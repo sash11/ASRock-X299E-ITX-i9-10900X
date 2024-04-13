@@ -40,3 +40,10 @@
 - Adjust your config according to your GPU. I am using a "natively" supported GPU with no WEG kext.
 - Generate your own SMBIOS obviously. The one in the config now is just a sample for installation purposes only. Do not use it in your system.
 - Follow instruction to emulate NVRAM by running a command Launchd.command from OpenCore release Utilities folder and LogoutHook subfolder https://dortania.github.io/OpenCore-Post-Install/misc/nvram.html
+
+## Adding 25GB NIC
+I used one of the available PCIe Gen3 x4 port on the back of the motherboard and pugged an adapter like this
+
+  <p align="center">
+  <img src="Docs/PCIe-adapter.png" align=center">
+ </p>
