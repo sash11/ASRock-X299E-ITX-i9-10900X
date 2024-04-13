@@ -1,4 +1,4 @@
-# ASRock X299E-ITX/AC with Opencore 0.9.5
+# ASRock X299E-ITX/AC with Opencore 0.9.9
 <p align="center">
   <img src="Docs/AboutThisMac.png" align=center">
  </p>
