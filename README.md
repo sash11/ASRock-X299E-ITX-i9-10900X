@@ -42,13 +42,12 @@
 - Follow instruction to emulate NVRAM by running a command Launchd.command from OpenCore release Utilities folder and LogoutHook subfolder https://dortania.github.io/OpenCore-Post-Install/misc/nvram.html
 
 ## Adding 25GB NIC
-I used one of the available PCIe Gen3 x4 port on the back of the motherboard and pugged an adapter like this https://www.amazon.com/dp/B0CLD88KXS
+I used one of the available PCIe Gen3 x4 ports on the back of the motherboard and plugged an adapter like this https://www.amazon.com/dp/B0CLD88KXS
 
   <p align="center">
   <img src="Docs/PCIe-adapter.png" align=center">
  </p>
-There two network cards that work OOB:
-Intel XXV710-DA1 and Mellanox MCX4111A-ACAT
+The two network cards that work OOB that are on the affordable side are Intel XXV710-DA1 and Mellanox MCX4111A-ACAT
 
 I had Intel card at hand. It is working without issues on this platform.
   <p align="center">
