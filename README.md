@@ -1,4 +1,4 @@
-# ASRock X299E-ITX/AC with Opencore 1.0.0
+# ASRock X299E-ITX/AC with Opencore 1.0.1
 <p align="center">
   <img src="Docs/AboutThisMac.png" align=center">
  </p>
@@ -27,7 +27,7 @@
 | dGPU | Sapphire AMD Radeon RX6900XT. Works OOB |
 | WiFi & Bluetooth | Fenvi BCM94360NG. Works OOB |
 | OS Disk | 2TB WD SN850X |
-| macOS | Ventura 13.6.7 (22G720)/OpenCore 1.0.0
+| macOS | Ventura 13.6.9 (22G830)/OpenCore 1.0.1
 
 ## BIOS
 - Press F2 or Del to enter the BIOS. Use latest available bios for the system 2.20B
@@ -49,8 +49,8 @@ I used one of the available PCIe Gen3 x4 ports on the back of the motherboard an
  </p>
 The two network cards that work OOB that are on the affordable side are Intel XXV710-DA1 and Mellanox MCX4111A-ACAT
 
-I had Intel card at hand. It is working without issues on this platform.
+I suggest using Mellanox MCX4111A-ACAT single or double module variants as Intel card was giving me issues accessing SMB shares on the network.
   <p align="center">
-  <img src="Docs/Intel.png" align=center">
+  <img src="Docs/Mellanox.png" align=center">
  </p>
  
