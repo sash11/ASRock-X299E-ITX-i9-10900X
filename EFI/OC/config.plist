@@ -1809,6 +1809,8 @@
 		</dict>
 		<key>ReservedMemory</key>
 		<array/>
+		<key>Unload</key>
+		<array/>
 	</dict>
 </dict>
 </plist>
