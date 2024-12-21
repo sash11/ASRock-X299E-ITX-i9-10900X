@@ -1,4 +1,4 @@
-# ASRock X299E-ITX/AC with Opencore 1.0.1
+# ASRock X299E-ITX/AC with Opencore 1.0.3
 <p align="center">
   <img src="Docs/AboutThisMac.png" align=center">
  </p>
@@ -27,7 +27,7 @@
 | dGPU | Sapphire AMD Radeon RX6900XT. Works OOB |
 | WiFi & Bluetooth | Fenvi BCM94360NG. Works OOB |
 | OS Disk | 2TB WD SN850X |
-| macOS | Ventura 13.6.9 (22G830)/OpenCore 1.0.1
+| macOS | Ventura 13.7.2 (22H313)/OpenCore 1.0.3
 
 ## BIOS
 - Press F2 or Del to enter the BIOS. Use latest available bios for the system 2.20B
@@ -53,4 +53,4 @@ I suggest using Mellanox MCX4111A-ACAT single or double module variants as Intel
   <p align="center">
   <img src="Docs/Mellanox.png" align=center">
  </p>
- 
+ ß
