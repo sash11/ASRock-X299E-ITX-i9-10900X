@@ -1,4 +1,4 @@
-# ASRock X299E-ITX/AC with Opencore 1.0.3
+# ASRock X299E-ITX/AC with Opencore 1.0.5
 <p align="center">
   <img src="Docs/AboutThisMac.png" align=center">
  </p>
@@ -27,7 +27,7 @@
 | dGPU | Sapphire AMD Radeon RX6900XT. Works OOB |
 | WiFi & Bluetooth | Fenvi BCM94360NG. Works OOB |
 | OS Disk | 2TB WD SN850X |
-| macOS | Ventura 13.7.2 (22H313)/OpenCore 1.0.3
+| macOS | Ventura 13.7.7 (22H722)/OpenCore 1.0.5
 
 ## BIOS
 - Press F2 or Del to enter the BIOS. Use latest available bios for the system 2.20B
